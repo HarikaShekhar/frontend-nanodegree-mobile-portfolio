@@ -17,6 +17,8 @@ index.html - Page to test on Page Speed Insights.
 ####Part 1: Optimize PageSpeed Insights score for index.html
 ============================================================
 
+http://harikashekhar.github.io/frontend-nanodegree-mobile-portfolio/ Can be used for testing on Page Speed Insights.
+
 Optimizations:
 --------------
 
